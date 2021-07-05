@@ -1,6 +1,6 @@
 ## Personal Portfolio
 
-### [Live Site](https://jsmasterypro.com)
+### [Live Site](https://www.klejvi.me)
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
